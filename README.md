@@ -1,6 +1,6 @@
 ## SE(3)-Transformers (wip)
 
-Implementation of 3D Rotation / Translation Equivariant Attention Networks, in Pytorch
+Implementation of <a href="https://arxiv.org/abs/2006.10503">3D Rotation / Translation Equivariant Attention Networks</a>, in Pytorch
 
 ## Citations
 
